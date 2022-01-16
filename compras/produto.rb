@@ -4,3 +4,4 @@ class Produto
 # estou definindo os meus atributos para a minha classe produto => atributos de acesso => nome e preço    
   attr_accessor :nome, :preco
 end
+
